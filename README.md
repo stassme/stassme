@@ -1,5 +1,5 @@
 
-<h3 align="center">My name is <a href="https://patapau.dev/" target="_blank">Stanislau Patapau</a><br />I am a Junior Front-end developer.</h3>
+<h3 align="center">My name is <a href="https://patapau.dev/" target="_blank">Stanislau Patapau</a><br /> And I am a Junior Front-end developer.</h3>
 
 
 
