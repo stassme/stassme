@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**stassme/stassme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">My name is <a href="https://patapau.dev/" target="_blank">Stanislau Patapau</a><br />I am a Junior Front-end developer.</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="center">My links 🔗</h2>
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/stas-potapov-81ab17293/" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://patapau.dev/" target="_blank">
+    <img alt="website" src="https://img.shields.io/badge/patapau.dev-FF6719?style=for-the-badge&logo=substack&logoColor=white">
+  </a>
+</p>
